@@ -7,3 +7,6 @@ Test
 
 Deze test is geslaagd!
 ...
+
+# Local-Developement
+Open index.html in je browser
